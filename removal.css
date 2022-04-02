@@ -1,0 +1,37 @@
+/* Updated 11/20 */
+
+/* Removal  */
+#aMerger,
+#rankedSoonTm,
+#newsHolder,
+#youNewDiv,
+#onetrust-consent-sdk,
+.weapKey,
+#aHolder,
+.imageButton,
+#editorBtnM,
+.headerBarRight .verticalSeparator,
+#seasonLabel,
+.krSocial,
+#mailCount,
+#voiceDisplay,
+#bubbleContainer,
+.endAHolder,
+#igXPBar,
+.button.small.buttonO img,
+#tlInfHold,
+#loadEditrBtn,
+.settingsBtn[onclick="openOneTrust()"],
+.menuSocialB{
+    display: none!important;
+}
+
+.button,
+.button:hover,
+.quickJoin{
+    border: hidden!important
+}
+
+.setSugBox2{
+    display: none    
+}
